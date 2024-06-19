@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-💻View my [![Portfolio](https://simar-ahuja-portfolio.vercel.app0/)<br>👨‍💻 ML and AI Enthusiast with a splash of DSA<br>🔭 I’m currently working on OpenCV Projects<br>🌱 I’m currently learning MERN Stack<br>📄 9.59 CGPA and Branch Rank 3 (CSE+InfoSec)<br>☁️Certified: Azure Administrator Associate & AWS Cloud Practitioner
+💻View my (https://simar-ahuja-portfolio.vercel.app0/)<br>👨‍💻 ML and AI Enthusiast with a splash of DSA<br>🔭 I’m currently working on OpenCV Projects<br>🌱 I’m currently learning MERN Stack<br>📄 9.59 CGPA and Branch Rank 3 (CSE+InfoSec)<br>☁️Certified: Azure Administrator Associate & AWS Cloud Practitioner
 
 
 ## 🌐 Socials:
