@@ -2,7 +2,7 @@
 Software developer working in cloud automation and platform engineering.
 
 ### 💻 What I like
-I like practical engineering - clean configs, useful automation and debugging the things that only break in real environments.
+I like practical engineering - clean configs, useful automation and debugging things that only break in prod
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
