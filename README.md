@@ -1,6 +1,6 @@
 <div align="center">
 
-# Simar
+# Hi, I'm Simar
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Cloud+Automation+%26+Platform+Engineer;Infra-as-Code+%7C+CI%2FCD+%7C+Kubernetes;Clean+configs%2C+useful+automation;Debugging+things+that+only+break+in+prod&font=Fira%20Code&center=true&width=520&height=45&color=58A6FF&vCenter=true&size=20&pause=1200" alt="Typing SVG" />
 
@@ -20,8 +20,8 @@ and debugging things that only break in prod.
 ![](https://img.shields.io/badge/-TECH%20STACK-0A192F?style=flat-square)
 
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-0A192F?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure%20DevOps-0A192F?style=for-the-badge&logo=azuredevops&logoColor=0078D7" alt="Azure DevOps" />
+  <img src="https://img.shields.io/badge/AWS-0A192F?style=for-the-badge&logo=amazonaws&logoColor=FF9900&logoSize=auto" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0A192F?style=for-the-badge&logo=azuredevops&logoColor=0078D7&logoSize=auto" alt="Azure DevOps" />
   <img src="https://img.shields.io/badge/Docker-0A192F?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-0A192F?style=for-the-badge&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />
   <br>
@@ -37,12 +37,18 @@ and debugging things that only break in prod.
 
 ![](https://img.shields.io/badge/-CONTRIBUTION%20GRAPH-0A192F?style=flat-square)
 
-<img src="https://raw.githubusercontent.com/simxr/simxr/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simxr/simxr/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simxr/simxr/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/simxr/simxr/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
-![](https://img.shields.io/badge/-RANDOM%20DEV%20QUOTE-0A192F?style=flat-square)
+![](https://img.shields.io/badge/-DEV%20QUOTE-0A192F?style=flat-square)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=simxr&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
