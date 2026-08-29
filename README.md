@@ -97,7 +97,7 @@ Cloud and platform engineer focused on practical systems: clean configs, useful 
 ```text
 Infrastructure as code      -> Terraform, Terragrunt, repeatable environments, isolated state
 Kubernetes platforms        -> Amazon EKS, AWS-managed clusters, local K3d previews
-Delivery automation         -> CI/CD, GitOps workflows, scheduled deployment
+Delivery automation         -> CI/CD, Argo CD, GitOps workflows, scheduled deployment
 Monitoring & observability  -> kube-prometheus-stack, Prometheus, Grafana
 Developer experience        -> reproducible toolchains, practical automation
 ```
