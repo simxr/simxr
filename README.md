@@ -23,12 +23,10 @@
 $ cat about.txt
 ```
 
-I'm **Simar Ahuja**, a cloud and platform engineer focused on making infrastructure easier to build, ship, and operate. I like clean configuration, useful automation, and debugging the failures that only appear in production.
+Cloud and platform engineer focused on practical systems: clean configs, useful automation, and debugging things that only break in prod.
 
-- Building local-first platform tooling around **Kubernetes**, **Terraform**, and **AWS-compatible services**
-- Automating delivery with **CI/CD**, GitOps workflows, and policy-driven guardrails
-- Exploring better ways for infrastructure engineers to discover and track open-source work
-- Currently building **[Upstream](https://github.com/simxr/Upstream)** and **[Ephemeral Environment Engine](https://github.com/simxr/Ephemeral-Environment-Engine)**
+- Working across **Kubernetes**, **Terraform**, **AWS**, and **CI/CD**
+- Building **[Upstream](https://github.com/simxr/Upstream)** and **[Ephemeral Environment Engine](https://github.com/simxr/Ephemeral-Environment-Engine)**
 
 ---
 
