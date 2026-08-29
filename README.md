@@ -39,7 +39,7 @@ Cloud and platform engineer focused on practical systems: clean configs, useful 
 
 ## `~/` toolbox
 
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,jenkins,python,go,linux,bash,git,githubactions&perline=8" alt="AWS, Azure, Docker, Kubernetes, Terraform, Jenkins, Python, Go, Linux, Bash, Git, GitHub Actions">
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,jenkins,python,linux,bash,git,githubactions&perline=8" alt="AWS, Azure, Docker, Kubernetes, Terraform, Jenkins, Python, Linux, Bash, Git, GitHub Actions">
 
 <br><br>
 
@@ -64,13 +64,13 @@ Cloud and platform engineer focused on practical systems: clean configs, useful 
 <p>A targeted open-source issue finder for cloud-native and platform engineers. It curates high-signal work, classifies issues by infrastructure domain and contribution shape, and explains why each match fits.</p>
 <strong>Highlights</strong>
 <ul>
-<li>Deterministic Go scoring engine with explainable matches</li>
-<li>Static Next.js interface with private, browser-local tracking</li>
+<li>Deterministic, explainable matching for cloud-native contribution opportunities</li>
+<li>Static interface with private, browser-local tracking</li>
 <li>Scheduled GitHub Actions feed refresh and Pages deployment</li>
 <li>Helm, Argo CD, and chart-configuration contribution discovery</li>
 <li>Public contribution journey with optional read-only PR status sync</li>
 </ul>
-<p><code>Go</code> <code>Next.js</code> <code>TypeScript</code> <code>Helm ecosystem</code> <code>GitHub Actions</code> <code>GitHub Pages</code></p>
+<p><code>Kubernetes</code> <code>Helm ecosystem</code> <code>Terraform</code> <code>AWS</code> <code>Platform engineering</code> <code>GitHub Actions</code> <code>GitHub Pages</code></p>
 <p><a href="https://simxr.github.io/Upstream/">Live site</a> · <a href="https://github.com/simxr/Upstream">Source</a> · <a href="https://simxr.github.io/Upstream/journey/simar/">Journey</a></p>
 </td>
 <td width="50%" valign="top">
