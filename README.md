@@ -30,7 +30,7 @@ $ cat about.txt
 
 Cloud and platform engineer focused on practical systems: clean configs, useful automation, and debugging things that only break in prod.
 
-- Working across **Kubernetes**, **Terraform**, **AWS**, and **CI/CD**
+- Working across **Kubernetes**, **Helm**, **Terraform**, **AWS** and **CI/CD**
 - Building **[Upstream](https://github.com/simxr/Upstream)** and **[Ephemeral Environment Engine](https://github.com/simxr/Ephemeral-Environment-Engine)**
 
 ---
@@ -39,13 +39,13 @@ Cloud and platform engineer focused on practical systems: clean configs, useful 
 
 ## `~/` toolbox
 
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,jenkins,python,go,linux,bash,git,githubactions,nextjs,ts,react&perline=8" alt="AWS, Azure, Docker, Kubernetes, Terraform, Jenkins, Python, Go, Linux, Bash, Git, GitHub Actions, Next.js, TypeScript, and React">
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,jenkins,python,go,linux,bash,git,githubactions&perline=8" alt="AWS, Azure, Docker, Kubernetes, Terraform, Jenkins, Python, Go, Linux, Bash, Git, GitHub Actions">
 
 <br><br>
 
+![Helm](https://img.shields.io/badge/Helm-0A192F?style=for-the-badge&logo=helm&logoColor=0F1689)
 ![Terragrunt](https://img.shields.io/badge/Terragrunt-0A192F?style=for-the-badge&logo=terraform&logoColor=844FBA)
 ![Argo CD](https://img.shields.io/badge/Argo%20CD-0A192F?style=for-the-badge&logo=argo&logoColor=EF7B4D)
-![Helm](https://img.shields.io/badge/Helm-0A192F?style=for-the-badge&logo=helm&logoColor=0F1689)
 ![Prometheus](https://img.shields.io/badge/Prometheus-0A192F?style=for-the-badge&logo=prometheus&logoColor=E6522C)
 ![LocalStack](https://img.shields.io/badge/LocalStack-0A192F?style=for-the-badge&logo=localstack&logoColor=white)
 
