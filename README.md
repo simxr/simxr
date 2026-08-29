@@ -95,11 +95,11 @@ Cloud and platform engineer focused on practical systems: clean configs, useful 
 ## `~/` engineering focus
 
 ```text
-Infrastructure as code  -> repeatable environments, isolated state
-Kubernetes platforms    -> local clusters, GitOps, preview workloads
-Delivery automation     -> CI/CD, scheduled workflows, static deployment
-Operational guardrails  -> deterministic checks, least privilege, safe cleanup
-Developer experience    -> reproducible toolchains and useful interfaces
+Infrastructure as code      -> Terraform, Terragrunt, repeatable environments, isolated state
+Kubernetes platforms        -> Amazon EKS, AWS-managed clusters, local K3d previews
+Delivery automation         -> CI/CD, GitOps workflows, scheduled deployment
+Monitoring & observability  -> kube-prometheus-stack, Prometheus, Grafana
+Developer experience        -> reproducible toolchains, practical automation
 ```
 
 ---
