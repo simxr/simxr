@@ -8,7 +8,7 @@
 # Simar Ahuja
 
 <a href="https://github.com/simxr">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=680&lines=Cloud+%26+Platform+Engineer;Kubernetes+%7C+Infrastructure+as+Code+%7C+CI%2FCD;Building+useful+automation+for+real+systems" alt="Cloud and platform engineering typing banner">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=680&lines=Cloud+%26+Platform+Engineer;Kubernetes+%7C+Helm+%7C+Infrastructure+as+Code;Building+useful+automation+for+real+systems" alt="Cloud and platform engineering typing banner">
 </a>
 
 <br>
@@ -67,9 +67,10 @@ Cloud and platform engineer focused on practical systems: clean configs, useful 
 <li>Deterministic Go scoring engine with explainable matches</li>
 <li>Static Next.js interface with private, browser-local tracking</li>
 <li>Scheduled GitHub Actions feed refresh and Pages deployment</li>
+<li>Helm, Argo CD, and chart-configuration contribution discovery</li>
 <li>Public contribution journey with optional read-only PR status sync</li>
 </ul>
-<p><code>Go</code> <code>Next.js</code> <code>TypeScript</code> <code>GitHub Actions</code> <code>GitHub Pages</code></p>
+<p><code>Go</code> <code>Next.js</code> <code>TypeScript</code> <code>Helm ecosystem</code> <code>GitHub Actions</code> <code>GitHub Pages</code></p>
 <p><a href="https://simxr.github.io/Upstream/">Live site</a> · <a href="https://github.com/simxr/Upstream">Source</a> · <a href="https://simxr.github.io/Upstream/journey/simar/">Journey</a></p>
 </td>
 <td width="50%" valign="top">
@@ -82,7 +83,7 @@ Cloud and platform engineer focused on practical systems: clean configs, useful 
 <li>Argo CD ApplicationSet automation for preview environments</li>
 <li>Janitor lifecycle automation and deterministic governance checks</li>
 </ul>
-<p><code>Kubernetes</code> <code>K3d</code> <code>Terraform</code> <code>Terragrunt</code> <code>Argo CD</code> <code>Python</code> <code>LocalStack</code></p>
+<p><code>Kubernetes</code> <code>K3d</code> <code>Helm</code> <code>Terraform</code> <code>Terragrunt</code> <code>Argo CD</code> <code>Python</code> <code>LocalStack</code></p>
 <p><a href="https://github.com/simxr/Ephemeral-Environment-Engine">Source</a></p>
 </td>
 </tr>
@@ -97,7 +98,8 @@ Cloud and platform engineer focused on practical systems: clean configs, useful 
 ```text
 Infrastructure as code      -> Terraform, Terragrunt, repeatable environments, isolated state
 Kubernetes platforms        -> Amazon EKS, AWS-managed clusters, local K3d previews
-Delivery automation         -> CI/CD, Argo CD, GitOps workflows, scheduled deployment
+Helm & GitOps               -> Argo CD App of Apps; Keycloak, kube-prometheus-stack, Eclipse Che, GitLab, Nexus
+Delivery automation         -> CI/CD, Helm releases, GitOps workflows, scheduled deployment
 Monitoring & observability  -> kube-prometheus-stack, Prometheus, Grafana
 Developer experience        -> reproducible toolchains, practical automation
 ```
