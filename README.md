@@ -12,7 +12,7 @@
 </a>
 
 <br>
-
+<a href="https://simxr.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-simxr.github.io-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Portfolio website"></a>
 <a href="https://github.com/simxr"><img src="https://img.shields.io/badge/GitHub-simxr-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"></a>
 <a href="https://simxr.github.io/Upstream/"><img src="https://img.shields.io/badge/Live-Upstream-238636?style=for-the-badge&logo=githubpages&logoColor=white" alt="Upstream live site"></a>
 
