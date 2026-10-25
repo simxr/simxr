@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dot-matrix portrait generated from assets/avatar.png with scripts/dotify.py. -->
-<img src="assets/portrait.svg" width="300" alt="Simar Ahuja, rendered as a color dot-matrix portrait">
+<!-- <img src="assets/portrait.svg" width="300" alt="Simar Ahuja, rendered as a color dot-matrix portrait"> -->
 
 <br>
 
